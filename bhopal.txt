@@ -4,6 +4,8 @@ Welcome to my first text file
 hii garg
 how are you
 
+satyam
+garg and shivam
 
 
 regards 
